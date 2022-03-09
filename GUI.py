@@ -1,4 +1,3 @@
-from curses import BUTTON1_PRESSED
 import tkinter as w
 
 class test():
@@ -26,3 +25,5 @@ button.pack()
 if button == True:
     print("Button has been pressed")
 w.mainloop()
+
+# hoi
